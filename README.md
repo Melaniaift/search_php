@@ -1,5 +1,13 @@
 # CodeIgniter 4 Framework
 
+application/config/database.php you find that db name is flowers 
+in FlowerModel the table is flori
+
+structure: 
+![image](https://user-images.githubusercontent.com/76125731/124621679-24896c00-de83-11eb-9481-b8c34847f46a.png)
+![image](https://user-images.githubusercontent.com/76125731/124621705-29e6b680-de83-11eb-920d-07da72c5f75f.png)
+
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure. 
